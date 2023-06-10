@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adminumber: MyString
+  first_name: MyString
+  second_name: MyString
+  email: MyString
+  phone: 1.5
+  nationality: MyString
+  school: MyString
+  department: MyString
+  major: MyString
+  level: 1.5
+
+two:
+  adminumber: MyString
+  first_name: MyString
+  second_name: MyString
+  email: MyString
+  phone: 1.5
+  nationality: MyString
+  school: MyString
+  department: MyString
+  major: MyString
+  level: 1.5
